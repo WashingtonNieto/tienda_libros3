@@ -1,6 +1,17 @@
 <?php
 session_start();
 
+// fsfsd}fclosedsf
+// <s>fclosedsfsdf
+// sd
+// fdatasyncf
+// sdf
+// sdfsdf
+// ds
+// </s>
+
+
+
 require_once 'config/config.php';
 require_once 'config/database.php';
 
